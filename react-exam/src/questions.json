@@ -1,0 +1,103 @@
+[
+  {
+    "question": "What is the slowest animal on land?",
+    "answers": ["Rabbit", "Tiger", "Sloth", "Cheetah"],
+    "correct": "Sloth"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "answers": ["Rabbit", "Tiger", "Sloth", "Cheetah"],
+    "correct": "Cheetah"
+  },
+  {
+    "question": "What color is ruby?",
+    "answers": ["Red", "Yellow", "Green", "Blue"],
+    "correct": "Red"
+  },
+  {
+    "question": "What do you hit a nail with?",
+    "answers": ["Hand", "Leg", "Head", "Hammer"],
+    "correct": "Hammer"
+  },
+  {
+    "question": "What is the sweet food made by bees?",
+    "answers": ["Honey", "Sugar", "Salt", "Power"],
+    "correct": "Honey"
+  },
+  {
+    "question": "Which planet is closest to Earth?",
+    "answers": ["Mercury", "Neptune", "Uranus", "Jupiter"],
+    "correct": "Mercury"
+  },
+  {
+    "question": "In what sport can you get a hole in one?",
+    "answers": ["Badminton", "Golf", "Baseball", "Bowling"],
+    "correct": "Golf"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answers": ["The Pacific", "The Atlantic", "The Indian", "The Arctic"],
+    "correct": "The Pacific"
+  },
+  {
+    "question": "Which month comes after April?",
+    "answers": ["May", "June", "July", "August"],
+    "correct": "May"
+  },
+  {
+    "question": "In what year did World War II end?",
+    "answers": ["1945", "1954", "1944", "1968"],
+    "correct": "1945"
+  },
+
+  {
+    "question": "How many degrees is a right angle?",
+    "answers": ["90 degrees", "45 degrees", "180 degrees", "360 degrees"],
+    "correct": "90 degrees"
+  },
+  {
+    "question": " How many legs does a spider have?",
+    "answers": ["Eight", "Six", "Two", "Four"],
+    "correct": "Eight"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "answers": ["Eight", "Six", "Two", "Four"],
+    "correct": "Six"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "answers": ["Tokyo", "Bangkok", "Jakarta", "Hanoi"],
+    "correct": "Tokyo"
+  },
+  {
+    "question": "Which planet is closest to our sun?",
+    "answers": ["Mercury", "Neptune", "Earth", "Jupiter"],
+    "correct": "Mercury"
+  },
+  {
+    "question": "How many continents are there?",
+    "answers": ["Five", "Six", "Seven", "Eight"],
+    "correct": "Seven"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "answers": ["Five", "Six", "Seven", "Eight"],
+    "correct": "Eight"
+  },
+  {
+    "question": "How many primary colors are there?",
+    "answers": ["Five", "Six", "Seven", "Three"],
+    "correct": "Three"
+  },
+  {
+    "question": "What is zero divided by any other number?",
+    "answers": ["Zero", "One", "Two", "Three"],
+    "correct": "Zero"
+  },
+  {
+    "question": "What is the name of the longest river in the world?",
+    "answers": ["Amazon", "Nile", "Mekong", "Congo"],
+    "correct": "Amazon"
+  }
+]
